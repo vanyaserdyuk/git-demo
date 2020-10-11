@@ -3,3 +3,7 @@ one new line
 
 hello git
 
+some content
+aaaa
+we are studying well
+------------
