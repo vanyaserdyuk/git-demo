@@ -4,4 +4,5 @@ one new line
 hello git
 so funny 
 more content
+new commit
 
